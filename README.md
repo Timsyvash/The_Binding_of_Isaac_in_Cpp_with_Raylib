@@ -46,16 +46,3 @@ git clone https://github.com/Timsyvash/The_Binding_of_Isaac_in_Cpp_with_Raylib.g
 Оберіть конфігурацію Debug або Release та платформу x64.
 
 Натисніть F5 або кнопку Start, щоб зібрати та запустити гру.
-
-📁 Структура проєкту
-Plaintext
-├── mapas/                  # Текстові файли для генерації кімнат (mapa01.txt, ...)
-├── sounds/                 # Аудіофайли (.wav) для звукових ефектів
-├── sprites/                # Текстури та спрайти (.png) персонажів і предметів
-├── Bomb.cpp / Bomb.h       # Логіка та рендеринг бомб
-├── Enemy.cpp / Enemy.h     # Логіка та типи ворогів
-├── Game.cpp / Game.h       # Менеджер станів гри та інтерфейс (UI)
-├── Map_generator.cpp / .h  # Система завантаження та парсингу карт
-├── Player.cpp / Player.h   # Фізика та керування гравцем
-├── Tears.cpp / Tears.h     # Механіка стрільби та колізій сліз
-└── main.cpp                # Точка входу та головний ігровий цикл
