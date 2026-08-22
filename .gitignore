@@ -1,0 +1,19 @@
+# Скомпільовані файли та папки збірки
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.tlog
+
+# Тимчасові файли Visual Studio
+.vs/
+*.ipch
+*.db
+*.suo
+*.user
+
+# NuGet пакети (завантажуються автоматично при збірці)
+packages/

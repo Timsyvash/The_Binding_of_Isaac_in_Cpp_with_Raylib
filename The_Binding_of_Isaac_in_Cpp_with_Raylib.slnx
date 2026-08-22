@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="The_Binding_of_Isaac_in_Cpp_with_Raylib/The_Binding_of_Isaac_in_Cpp_with_Raylib.vcxproj" Id="ecdde43d-3288-436d-bee5-50ab45fa48e5" />
+</Solution>
